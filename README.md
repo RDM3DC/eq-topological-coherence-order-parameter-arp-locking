@@ -1,5 +1,12 @@
 # Topological Coherence Order Parameter (ARP Locking)
 
+
+<!-- HERO_ANIMATION:BEGIN -->
+![Topological coherence order parameter (ARP locking)](images/topological_coherence.gif)
+
+_Hero animation: **Topological coherence order parameter (ARP locking)**. [Download high-resolution MP4](images/topological_coherence.mp4)._
+<!-- HERO_ANIMATION:END -->
+
 **ID:** `eq-topological-coherence-order-parameter-arp-locking`  
 **Tier:** derived  
 **Score:** 92  
